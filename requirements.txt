@@ -1,0 +1,10 @@
+Flask
+python-docx
+reportlab
+pytesseract
+pdf2image
+PyMuPDF
+pillow
+requests
+google-generativeai
+gunicorn
